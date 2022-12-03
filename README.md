@@ -1,10 +1,13 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+
 ![odev_gorseli.png](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
 
 ## Installation
 Öncelikle projeyi clonelayın. 
-`https://github.com/tugcekepen/kodluyoruzilkrepo.git`
+```
+https://github.com/tugcekepen/kodluyoruzilkrepo.git
+```
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
